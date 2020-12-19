@@ -110,8 +110,8 @@
 
 [如何分析用户满意度？](https://github.com/houzidata/Graphical-SQL-interview-questions/blob/main/_chapter5_%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E5%9B%BE%E8%A7%A3%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E7%94%A8%E6%88%B7%E6%BB%A1%E6%84%8F%E5%BA%A6.md)  
 
-[如何分析红包领取情况？](http://mp.weixin.qq.com/s?__biz=MzAxMTMwNTMxMQ==&mid=2649248760&idx=1&sn=490d334204815d80ff53c1d622ca5fc3&chksm=835fdbc8b42852dedf8dd62e5e14b1b4e1059a5b2599f4d8947e0d37aced226e6e882e13301a&scene=21#wechat_redirect)
+[如何分析红包领取情况？](https://github.com/houzidata/Graphical-SQL-interview-questions/blob/main/_chapter5_%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E5%9B%BE%E8%A7%A3%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E7%BA%A2%E5%8C%85%E9%A2%86%E5%8F%96%E6%83%85%E5%86%B5.md)
 
-推荐：[如何从零学会 sql？](https://github.com/houzidata/Graphical-SQL-interview-questions/blob/main/_chapter5_%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E5%9B%BE%E8%A7%A3%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E7%BA%A2%E5%8C%85%E9%A2%86%E5%8F%96%E6%83%85%E5%86%B5.md)
+推荐：[如何从零学会 sql？](http://mp.weixin.qq.com/s?__biz=MzAxMTMwNTMxMQ==&mid=2649247566&idx=2&sn=5af748b677eb72028764dde0577675fb&chksm=835fc77eb4284e68e8cfe3f08c5a671b9e080b2651f20b40b1c793ffda4042ae43ad8f35a755&scene=21#wechat_redirect)
 
 [![](https://mmbiz.qpic.cn/mmbiz_png/PnRVMhXvfFLIBubXLZVOOMBUS4hIgCM9NkHCauHjz0fOhvaA3TnJWx3N4njnLV1soStKCHq7msnOWNRiaHKBAsA/640?wx_fmt=png)](http://mp.weixin.qq.com/s?__biz=MzAxMTMwNTMxMQ==&mid=2649247566&idx=2&sn=5af748b677eb72028764dde0577675fb&chksm=835fc77eb4284e68e8cfe3f08c5a671b9e080b2651f20b40b1c793ffda4042ae43ad8f35a755&scene=21#wechat_redirect)
