@@ -1,4 +1,4 @@
-# **图解SQL面试题**
+# **图解 SQL 面试题**
 
 运营、产品经理、数据分析、软件开发等职位，SQL 是必会的技能。  
 
@@ -92,7 +92,7 @@
 
 [拼多多面试题：如何查找前 20% 的数据？](https://github.com/houzidata/Graphical-SQL-interview-questions/blob/main/_chapter4_SQL%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E6%9F%A5%E6%89%BE%E5%89%8D20%25%E7%9A%84%E6%95%B0%E6%8D%AE.md)  
 
-[图解面试题：如何查找工资前三高的员工](https://github.com/houzidata/Graphical-SQL-interview-questions/blob/main/_chapter4_SQL%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD/%E5%9B%BE%E8%A7%A3%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E6%9F%A5%E6%89%BE%E5%B7%A5%E8%B5%84%E5%89%8D%E4%B8%89%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5.md)  
+[图解面试题：如何查找工资前三高的员工？](https://github.com/houzidata/Graphical-SQL-interview-questions/blob/main/_chapter4_SQL%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD/%E5%9B%BE%E8%A7%A3%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E6%9F%A5%E6%89%BE%E5%B7%A5%E8%B5%84%E5%89%8D%E4%B8%89%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5.md)  
 
 [图解面试题：如何分组比较？](https://github.com/houzidata/Graphical-SQL-interview-questions/blob/main/_chapter4_SQL%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD/%E5%9B%BE%E8%A7%A3%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E5%88%86%E7%BB%84%E6%AF%94%E8%BE%83.md)  
 
