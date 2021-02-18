@@ -39,7 +39,7 @@ select max(distinct 成绩)
 from 成绩表
 where 课程='语文';
 
-```MYSQL
+```
 
 然后再找出小于 a 的最大值就是课程成绩的第二高值。
 
