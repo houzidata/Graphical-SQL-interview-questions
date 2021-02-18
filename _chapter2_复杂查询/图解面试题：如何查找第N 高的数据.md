@@ -1,4 +1,4 @@
-# **图解面试题：如何查找第N高的数据？**
+# **图解面试题：如何查找第 N 高的数据？**
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/PnRVMhXvfFK6FAk3qhUZicz0ibMJnXgDOea8B3ibzELniaEvPph6gibQRAPiaZictQOBDetsq9L6louXaArYjwwzVMlow/640?wx_fmt=png)
 
