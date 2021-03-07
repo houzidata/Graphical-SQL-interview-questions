@@ -1,7 +1,8 @@
 # **图解 SQL 面试题**
+
 <p align='center'>
 <a href="https://houzidata.gitbook.io/sql/" target="_blank"><img alt="Website" src="https://img.shields.io/website?label=%E5%9C%A8%E7%BA%BF%E7%94%B5%E5%AD%90%E4%B9%A6&style=flat-square&down_color=blue&down_message=%E7%82%B9%E8%BF%99%E9%87%8C&up_color=blue&up_message=%E7%82%B9%E8%BF%99%E9%87%8C&url=https%3A%2F%2Flabuladong.gitee.io%2Falgo&logo=Gitea"></a>
-<a href="https://github.com/labuladong/fucking-algorithm" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/houzidata/Graphical-SQL-interview-questions?label=Stars&style=flat-square&logo=GitHub"></a>
+<a href="https://github.com/houzidata/Graphical-SQL-interview-questions" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/houzidata/Graphical-SQL-interview-questions?label=Stars&style=flat-square&logo=GitHub"></a>
 </p>
 
 <p align='center'>
