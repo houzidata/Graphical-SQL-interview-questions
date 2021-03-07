@@ -8,7 +8,7 @@
 <p align='center'>
 <a href="https://github.com/houzidata" target="_blank"><img src="https://img.shields.io/badge/作者-@猴子-000000.svg?style=flat-square&logo=GitHub"></a>
 <a href="https://www.zhihu.com/people/houziliaorenwu" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@猴子-000000.svg?style=flat-square&logo=Zhihu"></a>
-<a href="https://mmbiz.qpic.cn/mmbiz_jpg/PnRVMhXvfFLxIWAcpH8WkJcASQH4ndhfSBQdupDEEcrxt9GKsU4nKKMQ4ZRVesnGwDT0jUbsRXt5ywrfmE8pqw/640?wx_fmt=jpeg" target="_blank"><img src="https://img.shields.io/badge/公众号-@猴子数据分析-000000.svg?style=flat-square&logo=WeChat"></a>
+<a href="./_image/公众号二维码.jpg" target="_blank"><img src="https://img.shields.io/badge/公众号-@猴子数据分析-000000.svg?style=flat-square&logo=WeChat"></a>
 </p>
 
 运营、产品经理、数据分析、软件开发等职位，SQL 是必会的技能。  
