@@ -121,6 +121,15 @@
 
 [如何分析红包领取情况？](./_chapter5_项目实战/图解面试题：如何分析红包领取情况.md)
 
+[如何分析中位数？](./_chapter5_项目实战/图解面试题：如何分析中位数？.md)
+
+[小红书面试题：如何分析用户行为？](./_chapter5_项目实战/小红书面试题：如何分析用户行为？.md)
+
+[教育行业案例：学员续费如何分析？](./_chapter5_项目实战/教育行业案例：学员续费如何分析？.md)
+
+[字节跳动面试题：你的平均薪水是多少？](./_chapter5_项目实战/字节跳动面试题：你的平均薪水是多少？.md)
+
+
 推荐：[如何从零学会 sql？](http://mp.weixin.qq.com/s?__biz=MzAxMTMwNTMxMQ==&mid=2649247566&idx=2&sn=5af748b677eb72028764dde0577675fb&chksm=835fc77eb4284e68e8cfe3f08c5a671b9e080b2651f20b40b1c793ffda4042ae43ad8f35a755&scene=21#wechat_redirect)
 
 [![](https://mmbiz.qpic.cn/mmbiz_png/PnRVMhXvfFLIBubXLZVOOMBUS4hIgCM9NkHCauHjz0fOhvaA3TnJWx3N4njnLV1soStKCHq7msnOWNRiaHKBAsA/640?wx_fmt=png)](http://mp.weixin.qq.com/s?__biz=MzAxMTMwNTMxMQ==&mid=2649247566&idx=2&sn=5af748b677eb72028764dde0577675fb&chksm=835fc77eb4284e68e8cfe3f08c5a671b9e080b2651f20b40b1c793ffda4042ae43ad8f35a755&scene=21#wechat_redirect)
