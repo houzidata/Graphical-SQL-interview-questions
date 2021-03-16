@@ -129,8 +129,6 @@
 
 [字节跳动面试题：你的平均薪水是多少？](./_chapter5_项目实战/字节跳动面试题：你的平均薪水是多少？.md)
 
--------------
-
 《图解 SQL 面试题》案例数据如何获取？
 
 在我公号（猴子数据分析）<a href="https://mp.weixin.qq.com/s/2xEdzkeOI0tLKSehY9HViw" target="_blank"><img src="https://img.shields.io/badge/公众号-@猴子数据分析-000000.svg?style=flat-square&logo=WeChat"></a>对话框回复“资料”即可获取，在“面试题”文件夹下面
